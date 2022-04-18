@@ -1,6 +1,17 @@
-try
-hahahahhaha
-testetststststtts
-asdfhakljsdfhalsfjd
-askljdfhaslkdfhalskf
-/d sjakjdjaskfe
+# 应该有个标题  
+我再测试一下换行   
+markdown 好好玩   
+***
+很好 下面开始***自我介绍***：  
+
+我叫李绮雯， 本科是学**金融数学**的！！！  
+转行的原因很简单，**数学太难了啊！**  
+
+感谢昆士兰大学收留本编程菜鸟  
+还是写代码使我快乐！！！
+尤其是写后端使我快乐！！！！  
+前端调格式太痛苦了TAT 
+
+我喜欢写**算法题**  虽然力扣到现在也就刷了100多道！   
+但是我坚信 我总有一天能刷够**300道**的  
+
